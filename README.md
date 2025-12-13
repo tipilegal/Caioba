@@ -20,21 +20,62 @@
 
 ### 👨‍💻 `whoami`
 
-Sou um Analista de Infraestruturva de TI apaixonado por quebrar as coisas para torná-las mais seguras. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
+Sou um Analista de Infraestrutura de TI apaixonado por quebrar as coisas para torná-las mais seguras. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
 
 Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando meu conhecimento com a certificação CompTIA PenTest+ e destruindo máquinas diariamente em laboratórios CTF.
 
-🔭 Atualmente trabalhando em: Infraestrutura Crítica & Automação na Studio VS.
+🔭 **Atualmente trabalhando em:** Infraestrutura Crítica & Automação na Studio VS.
 
-🌱 Estudando: Desenvolvimento de Exploits, Active Directory Hacking & C2 Infrastructure.
+🌱 **Estudando:** Desenvolvimento de Exploits, Active Directory Hacking & C2 Infrastructure.
 
-🎯 Objetivo: Junior Red Team / Pentester.
+🎯 **Objetivo:** Junior Red Team / Pentester.
 
-🛡️ Certificações:
+🛡️ **Certificações:**
+* CompTIA PenTest+
+* [Outra Certificação]
 
-CompTIA PenTest+
+---
 
-[Outra Certificação]
+### 🛠️ Arsenal & Tech Stack
 
-🛠️ Arsenal & Tech Stack
-<!-- <div align="left"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Shell_Script-121011%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Ansible-EE0000%3Fstyle%3Dfor-the-badge%26logo%3Dansible%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dfor-the-badge%26logo%3Dmetasploit%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6633%3Fstyle%3Dfor-the-badge%26logo%3Dburpsuite%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows_Server-0078D6%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" /></div>🏆 CTF & Rank 911. <div align="center"><a href="https://www.google.com/url?sa=E&source=gmail&q=https://app.hackthebox.com/profile/1044776"><img src="https://www.google.com/search?q=http://www.hackthebox.eu/badge/image/1044776" alt="Hack The Box Profile" /></a><a href="https://www.google.com/search?q=https://tryhackme.com/p/[SEU_USER_THM]"><img src="https://www.google.com/search?q=https://tryhackme-badges.s3.amazonaws.com/caio.chagas.png" alt="TryHackMe Profile" /></a></div>📝 Writeups & Pwned MachinesUma coleção documentada das máquinas e desafios que comprometi.📦 Hack The BoxMachine / ChallengeOSDifficultyTagsWriteup LinkExample Machine<img src="https://img.shields.io/badge/-Linux-grey?logo=linux" />🟢 EasyWeb CVE-2021-XXXXRead HereHard Machine<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Windows-blue%3Flogo%3Dwindows" />🔴 HardActive Directory KerberoastingRead Here🚀 TryHackMeRoom NameCategoryFocusWriteup LinkOffensive PentestingLearning PathAD Buffer OverflowRead HerePickle RickCTFWeb LinuxRead Here<div align="right"><a href="./Writeups">📂 <b>Explore o diretório completo de Writeups</b></a></div>📊 GitHub Analytics<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tipilegal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtipilegal&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" /></div><div align="center"><sub><i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."</i></sub></div> -->
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+<br>
+
+### 🏆 CTF & Rank
+
+<div align="center">
+<a href="https://app.hackthebox.com/profile/1044776">
+  <img src="http://www.hackthebox.eu/badge/image/1044776" alt="Hack The Box Profile" />
+</a>
+<a href="https://tryhackme.com/p/SEU_USER_THM">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SEU_USER_THM.png" alt="TryHackMe Profile" />
+</a>
+</div>
+
+<br>
+
+### 📝 Writeups & Pwned Machines
+Uma coleção documentada das máquinas e desafios que comprometi.
+
+#### 📦 Hack The Box
+
+| Machine / Challenge | OS | Difficulty | Tags | Writeup Link |
+| :--- | :---: | :---: | :--- | :---: |
+| **Enterprise** | <img src="https://img.shields.io/badge/-Windows-blue?logo=windows" /> | 🔴 Hard | `Active Directory` `Kerberoasting` | [Read Here](#) |
+| **Example Machine** | <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" /> | 🟢 Easy | `Web` `CVE-2021-XXXX` | [Read Here](#) |
+
+#### 🚀 TryHackMe
+
+| Room Name | Category | Focus | Writeup Link
