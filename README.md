@@ -60,7 +60,7 @@ Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando
   <img src="http://www.hackthebox.eu/badge/image/1044776" alt="Hack The Box Profile" />
 </a>
 <a href="https://tryhackme.com/p/SEU_USER_THM">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SEU_USER_THM.png" alt="TryHackMe Profile" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/caio.chagas.png" alt="TryHackMe Profile" />
 </a>
 </div>
 
