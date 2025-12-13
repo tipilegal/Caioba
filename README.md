@@ -73,9 +73,31 @@ Uma coleção documentada das máquinas e desafios que comprometi.
 
 | Machine / Challenge | OS | Difficulty | Tags | Writeup Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Enterprise** | <img src="https://img.shields.io/badge/-Windows-blue?logo=windows" /> | 🔴 Hard | `Active Directory` `Kerberoasting` | [Read Here](#) |
+| **Enterprise** | <img src="https://img.shields.io/badge/-Windows-blue?logo=windows" /> | 🔴 Hard | `Active Directory` `Kerberoasting` | [Read Here](https://spice-washer-6d9.notion.site/Enterprise-Writeup-Caio-Chagas-1f42dcd52c698043af60f869b5a75054) |
 | **Example Machine** | <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" /> | 🟢 Easy | `Web` `CVE-2021-XXXX` | [Read Here](#) |
 
 #### 🚀 TryHackMe
 
-| Room Name | Category | Focus | Writeup Link
+| Room Name | Category | Focus | Writeup Link |
+| :--- | :--- | :--- | :---: |
+| **Offensive Pentesting** | Learning Path | `AD` `Buffer Overflow` | [Read Here](#) |
+| **Pickle Rick** | CTF | `Web` `Linux` | [Read Here](#) |
+
+<div align="right">
+  <a href="./Writeups">📂 <b>Explore o diretório completo de Writeups</b></a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tipilegal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipilegal&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub><i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."</i></sub>
+</div>
